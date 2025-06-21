@@ -11,7 +11,7 @@ load_dotenv()
 from datetime import datetime
 import matplotlib.pyplot as plt
 
-# import snscrape.modules.twitter as sntwitter
+
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 
