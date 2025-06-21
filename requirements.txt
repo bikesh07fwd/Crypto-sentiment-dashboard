@@ -3,6 +3,5 @@ requests
 pandas
 matplotlib
 vaderSentiment
-snscrape
 python-dotenv
 groq
